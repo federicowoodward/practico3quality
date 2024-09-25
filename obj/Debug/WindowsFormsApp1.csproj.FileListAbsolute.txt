@@ -1,0 +1,123 @@
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcceso.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMenuPrincipal.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearNoDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarNoDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarExAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMostrarDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcceso.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearAlumnos.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearNoDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarAlumnos.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarExAlumnos.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarNoDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMenuPrincipal.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMostrarDocentes.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Alumno\Downloads\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Text.Json.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\Npgsql.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Text.Json.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAcceso.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCrearNoDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarExAlumnos.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarNoDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMenuPrincipal.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmListarDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMostrarDocentes.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fede\Desktop\QUALITY\.net interface\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
